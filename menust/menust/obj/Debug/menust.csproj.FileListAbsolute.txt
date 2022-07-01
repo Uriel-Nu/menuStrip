@@ -1,0 +1,10 @@
+C:\Users\Pablo Ocaño\source\repos\menust\menust\bin\Debug\menust.exe.config
+C:\Users\Pablo Ocaño\source\repos\menust\menust\bin\Debug\menust.exe
+C:\Users\Pablo Ocaño\source\repos\menust\menust\bin\Debug\menust.pdb
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.csproj.AssemblyReference.cache
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.Form1.resources
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.Properties.Resources.resources
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.csproj.GenerateResource.cache
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.exe
+C:\Users\Pablo Ocaño\source\repos\menust\menust\obj\Debug\menust.pdb
